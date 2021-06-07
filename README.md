@@ -1,6 +1,6 @@
 ## Matthew Li
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/li-matthew/)](https://www.linkedin.com/in/li-matthew/)
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:mtthw.li7@gmail.com)
+[![Gmail](https://img.shields.io/badge/-mtthw.li7@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:mtthw.li7@gmail.com)
 [![li-matthew.github.io](https://img.shields.io/badge/-li--matthew.github.io-424874?style=flat&logo=react&logoColor=white)](https://li-matthew.github.io/)
 
 Hi, I am a 4th year student at Purdue University studying Computer Science and Data Science. I am an experienced Full Stack Web Developer and am passionate about learning a variety of technologies and creating software and tools to help people. I love listening to music, watching movies or series and sharing them with my friends.
