@@ -3,6 +3,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:mtthw.li7@gmail.com)
 [![li-matthew.github.io](https://img.shields.io/badge/-li--matthew.github.io-424874?style=flat&logo=react&logoColor=white)](https://li-matthew.github.io/)
 
+Hi, I am a 4th year student at Purdue University studying Computer Science and Data Science. I am an experienced Full Stack Web Developer and am passionate about learning a variety of technologies and creating software and tools to help people. I love listening to music, watching movies or series and sharing them with my friends.
 
 ### Languages
 <img src = "https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white"> <img src = "https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
@@ -33,14 +34,12 @@
 <img src = "https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
 <img src = "https://img.shields.io/badge/-Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white">
 <img src = "https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white">
-
-
 --->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=li-matthew&show_icons=true&layout=compact&hide_border=true&theme=material-palenight)](https://github.com/li-matthew/github-readme-stats)
 <br><br>
 [![Matthew's github stats](https://github-readme-stats.vercel.app/api?username=li-matthew&show_icons=true&theme=material-palenight&hide=["contribs","issues"]&hide_border=true)](https://github.com/li-matthew)
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 🙂</em>
 
 ⭐️ From [li-matthew](https://github.com/li-matthew)
