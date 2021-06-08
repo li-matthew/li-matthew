@@ -37,7 +37,7 @@ Hi, I am a 4th year student at Purdue University studying Computer Science and D
 <img src = "https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white">
 --->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=li-matthew&show_icons=true&layout=compact&hide_border=true&theme=material-palenight)](https://github.com/li-matthew/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=li-matthew&show_icons=true&layout=compact&hide_border=true&theme=material-palenight)](https://github.com/li-matthew)
 <br><br>
 [![Matthew's github stats](https://github-readme-stats.vercel.app/api?username=li-matthew&show_icons=true&theme=material-palenight&hide=["contribs","issues"]&hide_border=true)](https://github.com/li-matthew)
 
