@@ -26,6 +26,7 @@ Hi, I am a 4th year student at Purdue University studying Computer Science and D
 <img src = "https://img.shields.io/badge/-pandas-150458?style=flat&logo=pandas&logoColor=white">
 <img src = "https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit%2Dlearn&logoColor=white">
 <img src = "https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white">
+<img src = "https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white">
 <img src = "https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
 
 <!---
