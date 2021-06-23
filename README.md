@@ -18,10 +18,11 @@ Hi, I am a 4th year student at Purdue University studying Computer Science and D
 
 ### Technologies
 <img src = "https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white"> <img src = "https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white">
+<img src = "https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white">
 <img src = "https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white">
 <img src = "https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white">
 <img src = "https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white">
-<img src = "https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node-dot-js&logoColor=white">
+<img src = "https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white">
 <img src = "https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
 <img src = "https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white">
 <img src = "https://img.shields.io/badge/-pandas-150458?style=flat&logo=pandas&logoColor=white">
