@@ -14,30 +14,35 @@ Hi, I am a 4th year student at Purdue University studying Computer Science and D
 <img src = "https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
 <img src = "https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white">
 <img src = "https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white">
+<!---
 <img src = "https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white">
+--->
 
 
 ### Technologies
 <img src = "https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white"> <img src = "https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white">
 <img src = "https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white">
 <img src = "https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white">
-<img src = "https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white">
+
 <img src = "https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white">
 <img src = "https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white">
 <img src = "https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
-<img src = "https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white">
+
 <img src = "https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white">
 <img src = "https://img.shields.io/badge/-pandas-150458?style=flat&logo=pandas&logoColor=white">
 <img src = "https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit%2Dlearn&logoColor=white">
 <img src = "https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white">
-<img src = "https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white">
+<img src = "https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
 <img src = "https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
 
 <!---
+<img src = "https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white">
+<img src = "https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white">
+<img src = "https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white">
 <img src = "https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white">
 <img src = "https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white">
 <img src = "https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white">
-<img src = "https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
+
 <img src = "https://img.shields.io/badge/-Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white">
 <img src = "https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white">
 --->
