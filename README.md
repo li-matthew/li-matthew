@@ -20,8 +20,7 @@ Hi, I am a 4th year student at Purdue University studying Computer Science and D
 
 
 ### Technologies
-<img src = "https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white"> <img src = "https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white">
-<img src = "https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white">
+<img src = "https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white"> <img src = "https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white">
 <img src = "https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white">
 <img src = "https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white">
 <img src = "https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white">
@@ -34,6 +33,7 @@ Hi, I am a 4th year student at Purdue University studying Computer Science and D
 <img src = "https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
 
 <!---
+<img src = "https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white">
 <img src = "https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white">
 <img src = "https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white">
 <img src = "https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white">
